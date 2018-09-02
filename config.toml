@@ -1,6 +1,6 @@
-baseurl = ""
+baseurl = "https://osdespossuidos.netlify.com/"
 languageCode = "en-us"
-title = "Natrium Theme"
+title = "Os despossuídos"
 theme = "hugo-natrium-theme"
 preserveTaxonomyNames = true
 rssLimit = 10
