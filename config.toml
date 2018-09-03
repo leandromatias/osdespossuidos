@@ -17,8 +17,8 @@ pygmentsStyle = "native"
     page = "/:slug/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Quem somos."
+    url = "/quemsomos/"
     weight = -110
 
 [[menu.main]]
