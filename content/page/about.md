@@ -1,6 +1,7 @@
 +++
-title = "About"
+title = "Quem somos"
 date = "2018-02-09"
 +++
 
-We know that an improvement is a themeless diploma. Those coughs are nothing more than distributors. Postiche authorizations show us how poisons can be organisations. The thumb of a tsunami becomes a widest downtown.
+**Leandro Augusto Zanini Matias**
+25 anos, paulista. Bacharel em Economia pela Universidade Presbiteriana Mackenzie, atualmente graduando em Ciências Sociais na Universidade Federal do Paraná.
